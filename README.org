@@ -1,10 +1,10 @@
 * Spring 2021 - Lab 03
 
-* Last name:
+* Last name: Lam
 
-* First name:
+* First name: Stephanie 
 
-* GitHub username:
+* GitHub username: LuckyFlower2995
 
 * Notes:
 
